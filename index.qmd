@@ -1,0 +1,24 @@
+---
+title: "Contents"
+---
+
+This website lists interactive webtools developed by the team of the [Institute of Clinical Biometrics](https://data-science.meduniwien.ac.at/institute/klinische-biometrie), [Center for Medical Data Science](https://data-science.meduniwien.ac.at), [Medical University of Vienna](https://www.meduniwien.ac.at), to accompany their research projects.
+
+Please note that the programs are prototypes: \* The programs have been designed for our programming environment. We cannot guarantee their functioning in other hard- and software environments. You may have to do some adaptions yourself. \* We have extensivly tested the programs, yet we deny liability for results from these programs.
+
+This website is under development, more repositories will be added soon.
+
+# Sample size calculation
+
+[*GINGER*](https://clinicalbiometrics.shiny.io/GINGER) - The GINGER tool for designing multigroup animal trials
+
+[*SimBa*](https://clinicalbiometrics.shinyapps.io/SimBa/) - Shiny App to facilitate assumptions and sample size calculations in Analysis of Covariance designs
+
+
+# Statistical modeling
+
+[*Bend your (sp)line*](https://clinicalbiometrics.shinyapps.io/bendyourspline) - Shiny App to demonstrate nonlinear modeling with splines and fractional polynomials. See also related [STRATOS site](https://www.stratos-initiative.org/en/node/91) with mirrors.
+
+# Survival analysis
+
+[*AFT_Surv_Haz*](https://bendyourspline1.shinyapps.io/AFT_Surv_Haz/)  - Shiny App to demonstrate properties of various parametric distributions of survival times (Weibull, log-logistic, Gompertz)
