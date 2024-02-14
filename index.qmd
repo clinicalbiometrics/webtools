@@ -10,7 +10,7 @@ This website is under development, more repositories will be added soon.
 
 # Sample size calculation
 
-[*GINGER*](https://clinicalbiometrics.shiny.io/GINGER) - The GINGER tool for designing multigroup animal trials
+[*GINGER*](https://clinicalbiometrics.shinyapps.io/GINGER) - The GINGER tool for designing multigroup animal trials
 
 [*SimBa*](https://clinicalbiometrics.shinyapps.io/SimBa/) - Shiny App to facilitate assumptions and sample size calculations in Analysis of Covariance designs
 
