@@ -2,10 +2,10 @@
 title: "Contents"
 ---
 
-This website lists interactive webtools developed by the team of the \
-[Institute of Clinical Biometrics](https://data-science.meduniwien.ac.at/institute/klinische-biometrie), \
-[Center for Medical Data Science](https://data-science.meduniwien.ac.at), \
-[Medical University of Vienna](https://www.meduniwien.ac.at), \
+This website lists interactive webtools developed by the team of the\
+[Institute of Clinical Biometrics](https://data-science.meduniwien.ac.at/institute/klinische-biometrie),\
+[Center for Medical Data Science](https://data-science.meduniwien.ac.at),\
+[Medical University of Vienna](https://www.meduniwien.ac.at),\
 to accompany their research projects.
 
 Please note that the programs are prototypes:
